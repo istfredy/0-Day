@@ -1,0 +1,13 @@
+My Git note...
+
+git clone : for clone a repository in your local desktop.
+git add : for add last change on github
+git commit -m : for ajust the message before pushing
+git push : for push your local change on github
+git branch : for see all branch and current branch prev by *
+git branch -d: for delete branch
+git branch -D: for delete a current branch
+git checkout : for create a new branch
+git pull : for up to date in collab project
+
+by @th3fr3dy
